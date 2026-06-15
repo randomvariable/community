@@ -1,0 +1,16 @@
+sigs.yaml
+  h_89238f8c3edb2d 3844-3862
+wg-node-identity/charter.md
+  h_89238f8c3edb2d 1-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "526b0cbefae36327122c68a468b7f188e4d924e0",
+  "prompts": {},
+  "humans": {
+    "h_89238f8c3edb2d": {
+      "author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  }
+}
