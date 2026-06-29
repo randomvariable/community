@@ -1,0 +1,41 @@
+sig-list.md
+  s_57b901ab5628eb::t_b610947f9cdbcf 69
+wg-node-identity/charter.md
+  h_89238f8c3edb2d 1-59,61-84
+  s_57b901ab5628eb::t_6cf165c37e3867 60
+wg-node-identity/README.md
+  s_57b901ab5628eb::t_c512a2dc54f111 1-15,17-19,32-36
+  s_57b901ab5628eb::t_b610947f9cdbcf 16
+  s_57b901ab5628eb::t_74546be68ea81c 20-31
+OWNERS_ALIASES
+  s_57b901ab5628eb::t_713041a34aa326 159
+  s_57b901ab5628eb::t_8dc554cf24f823 160-164
+sigs.yaml
+  s_57b901ab5628eb::t_a1ab86cd0b79dd 3855-3859,3864-3867
+  s_57b901ab5628eb::t_3ee7c86640cf03 3878,3880-3882
+  s_57b901ab5628eb::t_79b69cc12f4d43 3851
+  s_57b901ab5628eb::t_40ede316d7996c 3884
+  h_89238f8c3edb2d 3844-3850,3852-3854,3876-3877,3883
+  s_57b901ab5628eb::t_74546be68ea81c 3860-3863,3868-3875,3879
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "616806dcbd5dfdcd23a618e33a7ba9696b1a3b56",
+  "prompts": {},
+  "humans": {
+    "h_89238f8c3edb2d": {
+      "author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  },
+  "sessions": {
+    "s_57b901ab5628eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f18be-77e5-4f7c-9ceb-cd37818f5a7e",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
