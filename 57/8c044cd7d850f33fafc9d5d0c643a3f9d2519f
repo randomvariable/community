@@ -1,0 +1,49 @@
+wg-node-identity/charter.md
+  h_89238f8c3edb2d 1-45,47-60,62-83,85
+  s_57b901ab5628eb::t_6cf165c37e3867 61
+  s_9bf826b6a5ab5c::t_61b356003fb8fb 46
+wg-node-identity/README.md
+  s_57b901ab5628eb::t_c512a2dc54f111 1-15,16-18,31-35
+  s_57b901ab5628eb::t_74546be68ea81c 19-30
+OWNERS_ALIASES
+  s_57b901ab5628eb::t_713041a34aa326 159
+  s_57b901ab5628eb::t_8dc554cf24f823 160-164
+sigs.yaml
+  s_57b901ab5628eb::t_a1ab86cd0b79dd 3855-3859,3864-3867
+  s_57b901ab5628eb::t_3ee7c86640cf03 3878,3880-3882
+  s_57b901ab5628eb::t_40ede316d7996c 3884
+  h_89238f8c3edb2d 3845-3851,3852-3854,3876-3877,3883
+  s_57b901ab5628eb::t_74546be68ea81c 3860-3863,3868-3875,3879
+  s_9bf826b6a5ab5c::t_61b356003fb8fb 3804
+sig-list.md
+  s_9bf826b6a5ab5c::t_583e80f3a34505 68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "578c044cd7d850f33fafc9d5d0c643a3f9d2519f",
+  "prompts": {},
+  "humans": {
+    "h_89238f8c3edb2d": {
+      "author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  },
+  "sessions": {
+    "s_57b901ab5628eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f18be-77e5-4f7c-9ceb-cd37818f5a7e",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    },
+    "s_9bf826b6a5ab5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0476c997cffeVpbYaWX3iDoR16",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  }
+}
