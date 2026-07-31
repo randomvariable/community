@@ -1,0 +1,23 @@
+sigs.yaml
+  s_9bf826b6a5ab5c::t_61b356003fb8fb 3804
+sig-list.md
+  s_9bf826b6a5ab5c::t_583e80f3a34505 68-69
+wg-node-identity/charter.md
+  s_9bf826b6a5ab5c::t_61b356003fb8fb 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a378db66fd5df2e1275a3d3209996ac5b86a4e15",
+  "prompts": {},
+  "sessions": {
+    "s_9bf826b6a5ab5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0476c997cffeVpbYaWX3iDoR16",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  }
+}
