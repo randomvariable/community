@@ -1,0 +1,39 @@
+OWNERS_ALIASES
+  s_57b901ab5628eb::t_8dc554cf24f823 160-164
+  s_57b901ab5628eb::t_713041a34aa326 159
+wg-node-identity/charter.md
+  s_57b901ab5628eb::t_6cf165c37e3867 60
+  h_89238f8c3edb2d 1-59,61-84
+wg-node-identity/README.md
+  s_57b901ab5628eb::t_74546be68ea81c 19-30
+  s_57b901ab5628eb::t_c512a2dc54f111 1-18,31-35
+sig-list.md
+  s_57b901ab5628eb::t_74546be68ea81c 69
+sigs.yaml
+  s_57b901ab5628eb::t_a1ab86cd0b79dd 3854-3858,3863-3866
+  s_57b901ab5628eb::t_74546be68ea81c 3859-3862,3867-3874,3878
+  s_57b901ab5628eb::t_3ee7c86640cf03 3877,3879-3881
+  s_57b901ab5628eb::t_40ede316d7996c 3883
+  h_89238f8c3edb2d 3844-3853,3875-3876,3882
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "ea2b9d23b525225e74624e88295c83da7d09beb6",
+  "prompts": {},
+  "humans": {
+    "h_89238f8c3edb2d": {
+      "author": "Naadir Jeewa <jeewan@vmware.com>"
+    }
+  },
+  "sessions": {
+    "s_57b901ab5628eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "666f18be-77e5-4f7c-9ceb-cd37818f5a7e",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
